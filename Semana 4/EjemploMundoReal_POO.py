@@ -1,3 +1,6 @@
+#El programa modela el sistema de pedidos de una pastelería, donde un cliente
+# puede hacer un pedido de varios pasteles, y se calcula el total del pedido.
+
 class Pastel:
     def __init__(self, nombre, precio, sabor):
         self.nombre = nombre
