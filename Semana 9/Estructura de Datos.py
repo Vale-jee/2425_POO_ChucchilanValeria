@@ -16,7 +16,8 @@ class Inventario:
             Producto("003", "Pulsera Varios Plata", 8, 30.00),
             Producto("004", "Aretes Topo Niña", 12, 80.00),
             Producto("005", "Anillos Plata Varios", 5, 35.00),
-            Producto("006", "Cadenas Plata Varios", 5, 50.00)
+            Producto("006", "Cadenas Plata Varios", 5, 50.00),
+            Producto("007", "Dije Plata", 8, 10.00)
         ]
 
     def añadir_producto(self, producto):
