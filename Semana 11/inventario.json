@@ -1,0 +1,20 @@
+[
+    {
+        "ID": "001",
+        "Nombre": "Cocinas",
+        "Cantidad": 10,
+        "Precio": 450.0
+    },
+    {
+        "ID": "003",
+        "Nombre": "Refrigeradores",
+        "Cantidad": 10,
+        "Precio": 800.0
+    },
+    {
+        "ID": "002",
+        "Nombre": "Microondas",
+        "Cantidad": 15,
+        "Precio": 200.0
+    }
+]
