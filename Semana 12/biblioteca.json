@@ -1,0 +1,26 @@
+{
+    "libros": {
+        "001": {
+            "titulo": "Don Quijote de la Mancha",
+            "autor": "Miguel de Cervantes",
+            "categoria": "Literatura",
+            "isbn": "001"
+        }
+    },
+    "usuarios": {
+        "001": {
+            "nombre": "Fernanda Erazo",
+            "user_id": "001",
+            "prestamos": [
+                "002"
+            ]
+        },
+        "002": {
+            "nombre": "Santiago Padilla",
+            "user_id": "002",
+            "prestamos": [
+                "003"
+            ]
+        }
+    }
+}
